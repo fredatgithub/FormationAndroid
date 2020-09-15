@@ -1,17 +1,4 @@
-[17:51] animateur 29 (Invité)
-    
-  
-  
-  
-    
-      
-      
-        Java
-      
-    
-    
-    
-      package fr.orsys.ama.tp2;
+package fr.orsys.ama.tp2;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
