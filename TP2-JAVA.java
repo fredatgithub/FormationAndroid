@@ -34,7 +34,7 @@ public class AddClientActivity extends AppCompatActivity {
         levelSpinner = findViewById(R.id.slevel);
         ageBar.setMax(AGE_MAX - AGE_MIN);
     }
-    public void addAclient(View view) {
+    public void addclient(View view) {
         Log.i("fr.orsys.ama.tp2", "Click");
     }
 }
